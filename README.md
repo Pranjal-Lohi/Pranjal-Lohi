@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranjal Lohi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal-lohi&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal-lohi" /> </p>
 
-- 🔭 I’m currently working on **various frontend projects to learn new skills**
+- 🔭 I’m currently working on **various Full Stack projects to learn new skills**
 
-- 🌱 I’m currently learning **React.js, React Native and focusing on MERN stack**
+- 🌱 I’m currently learning **React.js and focusing on Java Spring Boot**
 
 - 📫 How to reach me **pranjallohi345@gmail.com**
 
